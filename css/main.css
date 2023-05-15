@@ -6,8 +6,8 @@ body {
 }
 
 h1 {
-background-color: rgb(161, 93, 171);
-padding: 10px;
+    background-color: rgb(161, 93, 171);
+    padding: 10px;
 }
 
 .wrapper {
@@ -29,8 +29,10 @@ main img {
 
 .discription dl {
     padding: 10px;
+    background-color: rgb(161, 93, 171);
 }
 
 .discription dd {
     margin: 0;
+    padding: 0 0 5px 0;
 }
