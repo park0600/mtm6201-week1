@@ -14,3 +14,18 @@ main img {
     float: left;
     padding: 0 20px 10px 0;
 }
+
+.discription dt {
+    font-size: 1.15rem;
+    font-weight: bold;
+    margin: 0;
+    margin: 5px 0;
+}
+
+.discription dl {
+    padding: 10px;
+}
+
+.discription dd {
+    margin: 0;
+}
